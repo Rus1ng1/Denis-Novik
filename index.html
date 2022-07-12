@@ -6,12 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Denis Novik</title>
     <link rel="stylesheet" href="style/style.css" />
-    <link rel="stylesheet" href="./style/reset.css" />
   </head>
   <body>
     <header>
       <nav>
-        <div class="conteiner">
+        <div class="container">
           <ul class="menu">
             <li class="menu_items"><a href="#home">Home</a></li>
             <li class="menu_items"><a href="#about">About me</a></li>
@@ -25,16 +24,21 @@
     </header>
     <main>
       <section id="home">
-        <h1>Denis Novik</h1>
-        <p>UX | UI designer 24 years old, Minsk</p>
-        <picture class="home_img">
-          <source
-            media="(max-width: 586px"
-            srcset="./img/home/home_mobile.png"
-          />
-          <img src="./img/home/home.jpg" alt="Denis" />
-          <link rel="stylesheet" href="./style/reset.css" />
-        </picture>
+        <div class="container">
+          <h1 class="home__logo">Denis<br />Novik</h1>
+          <p class="home__description">
+            UX | UI designer<br />
+            24 years old, Minsk
+          </p>
+          <picture class="home_img">
+            <source
+              media="(max-width: 586px"
+              srcset="./img/home/home_mobile.png"
+            />
+            <img src="./img/home/home.jpg" alt="Denis" />
+            <link rel="stylesheet" href="./style/reset.css" />
+          </picture>
+        </div>
       </section>
       <section id="about">
         <h2>About me</h2>

@@ -1,5 +1,7 @@
 @import url("./font.css");
+@import url("reset.css");
 @import url("./header.css");
+@import url("./home.css");
 
 body {
   font-family: "Gillroy Medium", Arial, Helvetica, sans-serif;
@@ -15,7 +17,7 @@ a {
   color: #828282;
 }
 
-.conteiner {
+.container {
   max-width: 940px;
   box-sizing: content-box;
   margin: 0 auto;
