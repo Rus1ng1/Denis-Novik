@@ -1,0 +1,19 @@
+.about_main {
+  width: 156px;
+  margin: 0 auto;
+  padding-bottom: 18px;
+  padding-top: 120px;
+}
+
+.about_par {
+  text-align: center;
+  width: 485px;
+  margin: 0 auto;
+  font-size: 18px;
+}
+
+#about {
+  margin-top: 104px;
+  padding-bottom: 107px;
+  background-color: #f6f6f6;
+}
