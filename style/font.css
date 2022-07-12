@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Gillroy Bold";
+  src: url("//Denis Novik/fonts/gilroy-Bold.woff") format("woff"),
+    url("../fonts/gilroy-Bold.woff2") format("woff2"),
+    url("../fonts/gilroy-Bold.ttf") format("truetype");
+
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gillroy Medium";
+  src: url("../fonts/gilroy-Medium.woff") format("woff"),
+    url("../fonts/gilroy-Medium.woff2") format("woff2"),
+    url("../fonts/gilroy-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
