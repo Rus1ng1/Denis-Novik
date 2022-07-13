@@ -1,0 +1,33 @@
+.h2-skills {
+  text-align: center;
+  padding-top: 91px;
+  font-size: 34px;
+}
+
+.p-skills {
+  text-align: center;
+  padding-top: 69px;
+}
+
+.img-skills {
+  display: inline-block;
+  width: 166px;
+  height: auto;
+  padding-right: 129px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.soft-skills {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 83px;
+}
+
+.p-soft {
+  padding-top: 23px;
+}
+
+.skill-stars {
+  padding-top: 41px;
+}
