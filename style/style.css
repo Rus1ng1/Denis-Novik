@@ -5,6 +5,8 @@
 @import url("./aboutme.css");
 @import url("./Skill.css");
 @import url("./portafolio.css");
+@import url("./contacts.css");
+@import url("./footer.css");
 
 body {
   font-family: "Gillroy Medium", Arial, Helvetica, sans-serif;
@@ -28,4 +30,8 @@ a {
 
 h1 {
   font-size: 48px;
+}
+
+#footer {
+  padding: 46px 0 123px 0;
 }

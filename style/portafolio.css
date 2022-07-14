@@ -1,10 +1,14 @@
+#portfolio {
+  background-color: #f6f6f6;
+}
+
 .portaf {
   text-align: center;
   padding-top: 113px;
   font-size: 34px;
 }
 
-.woman {
+.woman-img {
   padding-top: 47px;
 }
 
@@ -13,4 +17,27 @@
   padding-top: 43px;
   font-size: 21.83px;
   text-decoration: underline;
+}
+
+.reebok-img {
+  padding-top: 99px;
+}
+
+.r-store {
+  padding-top: 43px;
+  font-size: 18px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.braun-img {
+  padding-top: 99px;
+}
+
+.p-braun {
+  text-align: center;
+  font-size: 18px;
+  text-decoration: underline;
+  padding-top: 44px;
+  padding-bottom: 96px;
 }
